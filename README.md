@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://roadmap.sh/card/wide/65b0bd870c548122832c73c4?variant=dark&roadmaps=javascript%2Cfrontend%2Cpython
 
 <!--
 **weedcat671/weedcat671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
